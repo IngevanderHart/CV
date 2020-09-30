@@ -1,0 +1,26 @@
+body {
+  background-color: #eaf6f6;
+}
+h1 {
+  font-family: courier;
+  font-size: 75px;
+  text-shadow: 2px 2px 5px #155263;
+  color: #404b69;
+}
+p {font-family: arial;
+  font-size: 25px;
+  color: #404b69;
+}
+img {background-color: lightblue;
+    float: right;
+}
+h3 {color: #66bfbf}
+hr {
+  background-color: #eaf6f6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: pink;
+  border-width: 5px;
+  height: 1px;
+  width: 10%;
+}
